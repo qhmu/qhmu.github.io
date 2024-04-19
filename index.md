@@ -4,6 +4,16 @@
 # Quanhua Mu Lab of Computational Biology
 
 {% include section.html %}
+<style>
+  iframe {
+    width: 100%;
+    height: min(400px, 50vw);
+    border: none;
+  }
+</style>
+
+<iframe src="map"></iframe>
+
 
 We are a group of computational biologists at the Department of xx, xxx University.
 
@@ -35,7 +45,7 @@ We are a group of computational biologists at the Department of xx, xxx Universi
 
 {%
   include button.html
-  link="team"
+  link="research"
   text="Learn more about this study"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -47,7 +57,27 @@ We are a group of computational biologists at the Department of xx, xxx Universi
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
+  link="research"
   title="Research paper 2"
+  text=text
+%}
+
+
+{%
+  include button.html
+  link="research"
+  text="Learn more about this study"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Research paper 3"
   text=text
 %}
