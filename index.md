@@ -4,16 +4,6 @@
 # Quanhua Mu Lab of Computational Biology
 
 {% include section.html %}
-<style>
-  iframe {
-    width: 100%;
-    height: min(400px, 50vw);
-    border: none;
-  }
-</style>
-
-<iframe src="map"></iframe>
-
 
 We are a group of computational biologists at the Department of xx, xxx University.
 
