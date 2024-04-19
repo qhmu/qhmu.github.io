@@ -1,1 +1,1 @@
-Sitemap: https://qhmu.github.io/mulab_test/sitemap.xml
+Sitemap: https://qhmu.github.io/sitemap.xml
