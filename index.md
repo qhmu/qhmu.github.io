@@ -1,7 +1,7 @@
 ---
 ---
 
-# Quanhua Mu Lab of Computational Biology
+# Mu Lab of Computational Biology
 
 {% include section.html %}
 
