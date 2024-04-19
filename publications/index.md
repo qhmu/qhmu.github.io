@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Identifying predictors of glioma evolution from longitudinal sequencing" style="rich" %}
 
 {% include section.html %}
 

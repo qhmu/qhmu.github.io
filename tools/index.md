@@ -7,4 +7,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-We are committed to develop computational tools useful for .
+We are committed to develop computational tools useful in biomedical applications.
