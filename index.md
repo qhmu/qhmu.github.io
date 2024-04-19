@@ -6,7 +6,7 @@
 {% include section.html %}
 
 
-We are a group of computational biologists at the Department of xx, xxx University.
+We are a computational laboratory at the Department of xx, xxx University.
 
 ## Highlights
 
