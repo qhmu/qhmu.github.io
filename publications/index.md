@@ -9,9 +9,6 @@ nav:
 
 [Full list at Google Scholar](https://scholar.google.com/citations?hl=en&user=UB-ecrMAAAAJ&view_op=list_works&sortby=pubdate)
 
-
-{% include section.html %}
-
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
