@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Openings
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: open positions and contact info
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
