@@ -1,7 +1,7 @@
 ---
 ---
 
-# Quanhua Mu Lab
+# Quanhua Mu Lab of Computational Biology
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a group of computational biologists at the Department of xx, xxx University.
 
 {%
   include button.html
