@@ -7,11 +7,11 @@
 
 {% include section.html %}
 
+We are a group of computational biologists at the Department of xx, xxx University.
+
 ## Highlights
 
 {% capture text %}
-
-We are a group of computational biologists at the Department of xx, xxx University.
 
 {%
   include button.html
@@ -34,32 +34,6 @@ We are a group of computational biologists at the Department of xx, xxx Universi
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
