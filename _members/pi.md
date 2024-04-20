@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
+name: Quanhua Mu
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - Q. Mu
+  - Q Mu
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://qhmu.github.io/
+  orcid: 0000-0002-6891-5616
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
