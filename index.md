@@ -6,7 +6,7 @@
 {% include section.html %}
 
 
-We are a computational laboratory at the Department of xx, xxx University.
+We are a computational biology laboratory at the Department of Applied Biology and Chemical Technology (ABCT), The Hong Kong Polytechnic University.
 
 ## Highlights
 
