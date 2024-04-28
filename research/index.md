@@ -2,26 +2,12 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research directions and highlights
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Drug resistance
+Drug resistance is a major obstacle undermining the efficacy of cancer therapy. It is now recognized that drug resistance is a multi-faceted problem where genomics, epigenetics, and tumor microenvironment are all playing a role. We will therefore develop innovative computational methods, from basic statistical tests to machine learning and artificial intelligence, to analyze multi-omics data to identify biomarkers and drug targets useful for disease treatment.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+##
