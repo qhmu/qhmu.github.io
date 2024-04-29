@@ -36,7 +36,7 @@
   date: '2023-10-04'
   link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
   type: paper
-  description: We characterized the evolution landscape of three subtypes of gliomas, and identified early predictors of glioma evolution, including MYC activation that promotes hypermutation after temozolomide treatment.
+  description: We portrayed the evolution landscape of three subtypes of gliomas, and identified early predictors of glioma evolution, including MYC activation that promotes hypermutation after temozolomide treatment.
   image: https://www.science.org/cms/asset/9a45e350-fd65-4c7f-a78b-0c9c7764e6eb/stm.2023.15.issue-716.largecover.jpg
   buttons:
   - type: website
@@ -68,7 +68,7 @@
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
   type: paper
-  description: We identified DNA amplification as a driver of drug resistance, and proposed targeting the amplified DNA via triplex forming oligonucleotides (TFOs).
+  description: We found DNA amplification as a driver of drug resistance, and proposed targeting the amplified DNA via triplex forming oligonucleotides (TFOs).
   image: https://www.pnas.org/cms/asset/dc351847-695d-465d-8347-32e00fe78d43/pnas.2023.120.issue-49.largecover.png
   tags:
   - cancer drug resistance
@@ -293,7 +293,7 @@
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
-  description: We discovered multiple novel MGMT fusions in temozolomide-treated recurrent gliomas, and demonstrated that they contribute to temozoloide resistance.
+  description: We identified multiple novel MGMT fusions in temozolomide-treated recurrent gliomas, and demonstrated that they contribute to temozoloide resistance.
   type: paper
   tags:
   - cancer drug resistance
