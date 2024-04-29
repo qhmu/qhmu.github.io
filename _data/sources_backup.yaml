@@ -1,0 +1,33 @@
+---
+- id: doi:10.1126/scitranslmed.adh4181
+  type: paper
+  description: Identifying predictors of glioma evolution from longitudinal sequencing
+  date: 2023-10-4
+  image: https://www.science.org/cms/10.1126/scitranslmed.adh4181/asset/4175e9ea-a307-4955-90f9-ff3d5a3707db/assets/images/large/scitranslmed.adh4181-f4.jpg
+  buttons:
+    - type: website
+      link: http://www.wang-lab-hkust.com:3838/cello2
+
+- id: https://doi.org/10.1073/pnas.2303114120
+- id: https://doi.org/10.1111/bpa.13153
+- id: https://doi.org/10.1186/s13073-023-01165-8
+- id: https://doi.org/10.1126/sciadv.abp8901
+- id: https://doi.org/10.1007/s44178-022-00014-9
+- id: https://doi.org/10.1038/s41467-021-27017-w
+- id: https://doi.org/10.1021/acs.est.1c03010
+- id: https://doi.org/10.1016/j.scitotenv.2020.144509
+- id: https://doi.org/10.1007/s40484-020-0218-1
+- id: https://doi.org/10.1038/s41467-020-17717-0
+- id: https://doi.org/10.1021/acs.est.9b04116
+- id: doi:10.1109/TCBB.2019.2944827
+- id: https://doi.org/10.1016/j.gpb.2018.07.007
+- id: https://doi.org/10.1016/j.cell.2018.09.038
+- id: https://doi.org/10.1021/acs.est.8b01468
+- id: http://doi.org/10.1016/j.stemcr.2017.08.024
+- id: https://doi.org/10.1016/j.watres.2015.09.010
+- id: https://doi.org/10.1016/j.scitotenv.2015.05.046
+- id: https://doi.org/10.1371/journal.pone.0126784
+- id: https://doi.org/10.1007/s11356-014-3905-5
+- id: https://doi.org/10.1007/s11356-014-3632-y
+- id: https://doi.org/10.1021/ez500103v
+- id: https://doi.org/10.1021/es404280v

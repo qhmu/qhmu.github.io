@@ -66,6 +66,8 @@
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
   image: https://www.pnas.org/cms/10.1073/pnas.2303114120/asset/ee2873b1-32a8-436e-9380-75da7c84c4c6/assets/images/large/pnas.2303114120fig01.jpg
+  tags:
+  - cancer drug resistance
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1111/bpa.13153
@@ -88,6 +90,7 @@
   publisher: Brain Pathology
   date: '2023-07-01'
   link: https://onlinelibrary.wiley.com/doi/10.1111/bpa.13153
+  image: https://onlinelibrary.wiley.com/cms/asset/0522cb01-6acb-461b-b286-26d03c0c022c/bpa13153-fig-0001-m.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1186/s13073-023-01165-8
@@ -141,6 +144,7 @@
   publisher: Science Advances
   date: '2023-01-06'
   link: https://www.science.org/doi/10.1126/sciadv.abp8901
+  image: https://www.science.org/cms/10.1126/sciadv.abp8901/asset/708bcb27-6c48-420d-8690-f0eb9902550b/assets/images/large/sciadv.abp8901-f1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s44178-022-00014-9
@@ -178,6 +182,7 @@
   publisher: Holistic Integrative Oncology
   date: '2022-11-20'
   link: https://doi.org/10.1007/s44178-022-00014-9
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/44178?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1038/s41467-021-27017-w
@@ -196,6 +201,9 @@
   publisher: Nature Communications
   date: '2021-11-18'
   link: https://www.nature.com/articles/s41467-021-27017-w
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27017-w/MediaObjects/41467_2021_27017_Fig1_HTML.png
+  - type: website
+    link: https://wanglab.shinyapps.io/metanet/#-en
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/acs.est.1c03010
