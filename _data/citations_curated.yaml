@@ -326,7 +326,7 @@
   link: https://doi.org/gtsgtp
   type: paper
   image: https://csdl-images.ieeecomputer.org/website/default-covers/trans/tb.jpg
-  bottons:
+  buttons:
   - type: source
     link: https://github.com/WangLabHKUST/CNAPE
   plugin: sources.py
