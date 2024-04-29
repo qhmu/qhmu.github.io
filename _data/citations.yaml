@@ -41,10 +41,6 @@
   buttons:
   - type: website
     link: http://www.wang-lab-hkust.com:3838/cello2
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1073/pnas.2303114120
@@ -69,23 +65,22 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1111/bpa.13153
-  title: "Genomic profiling and prognostic factors of <span style=\"font-variant:small-caps;\"\
-    >H3 K27M</span> \u2010mutant spinal cord diffuse glioma"
+  title: "Genomic profiling and prognostic factors of H3 K27M-mutant spinal cord diffuse glioma"
   authors:
-  - "Rui\u2010Chao Chai"
+  - "Ruichao Chai"
   - Hao Yan
-  - "Song\u2010Yuan An"
+  - "Songyuan An"
   - Bo Pang
-  - "Hui\u2010Yuan Chen"
-  - "Quan\u2010Hua Mu"
-  - "Ke\u2010Nan Zhang"
-  - "Yao\u2010Wu Zhang"
-  - "Yu\u2010Qing Liu"
+  - "Huiyuan Chen"
+  - "Quanhua Mu"
+  - "Kenan Zhang"
+  - "Yaowu Zhang"
+  - "Yuqing Liu"
   - Xing Liu
   - Zheng Zhao
   - Tao Jiang
-  - "Yong\u2010Zhi Wang"
-  - "Wen\u2010Qing Jia"
+  - "Yongzhi Wang"
+  - "Wenqing Jia"
   publisher: Brain Pathology
   date: '2023-07-01'
   link: https://onlinelibrary.wiley.com/doi/10.1111/bpa.13153
