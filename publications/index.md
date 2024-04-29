@@ -17,6 +17,9 @@ Full list of publications can be found at [Google Scholar](https://scholar.googl
 
 {% include citation.html lookup="Mutational Landscape of Secondary Glioblastoma Guides MET-Targeted Trial in Brain Tumor" style="rich" %}
 
+{% include citation.html lookup="Adaptive DNA amplification of synthetic gene circuit opens a way to overcome cancer chemoresistance" style="rich" %}
+
+
 
 {% include section.html %}
 
