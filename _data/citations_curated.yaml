@@ -202,6 +202,7 @@
   date: '2021-11-18'
   link: https://www.nature.com/articles/s41467-021-27017-w
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27017-w/MediaObjects/41467_2021_27017_Fig1_HTML.png
+  buttons:
   - type: website
     link: https://wanglab.shinyapps.io/metanet/#-en
   plugin: sources.py
