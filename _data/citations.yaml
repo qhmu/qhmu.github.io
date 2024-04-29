@@ -224,13 +224,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.scitotenv.2020.144509
-  title: 'Metagenomic and bioanalytical insights into quorum sensing of methanogens in anaerobic digestion systems with or without the addition of conductive filter'
-  authors:
-  - Qing Du
-  - Quanhua Mu
-  - Guangxue Wu
-  publisher: Science of The Total Environment
-  date: '2021-04-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/10.1016/j.scitotenv.2020.144509
   plugin: sources.py
   file: sources.yaml
@@ -302,52 +299,18 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.gpb.2018.07.007
-  title: 'Deciphering Brain Complexity Using Single-cell Sequencing'
-  authors:
-  - Quanhua Mu
-  - Yiyun Chen
-  - Jiguang Wang
-  publisher: Genomics, Proteomics & Bioinformatics
-  date: '2019-08-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/10.1016/j.gpb.2018.07.007
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.cell.2018.09.038
-  title: 'Mutational Landscape of Secondary Glioblastoma Guides MET-Targeted Trial in Brain Tumor'
-  authors:
-  - Huimin Hu
-  - Quanhua Mu
-  - Zhaoshi Bao
-  - Yiyun Chen
-  - Yanwei Liu
-  - Jing Chen
-  - Kuanyu Wang
-  - Zheng Wang
-  - Yoonhee Nam
-  - Biaobin Jiang
-  - Jason K. Sa
-  - Hee-Jin Cho
-  - Nam-Gu Her
-  - Chuanbao Zhang
-  - Zheng Zhao
-  - Ying Zhang
-  - Fan Zeng
-  - Fan Wu
-  - Xun Kang
-  - Yuqing Liu
-  - Zenghui Qian
-  - Zhiliang Wang
-  - Ruoyu Huang
-  - Qiangwei Wang
-  - Wei Zhang
-  - Xiaoguang Qiu
-  - Wenbin Li
-  - Do-Hyun Nam
-  - Xiaolong Fan
-  - Jiguang Wang
-  - Tao Jiang
-  publisher: Cell
-  date: '2018-11-29'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/10.1016/j.cell.2018.09.038
   plugin: sources.py
   file: sources.yaml
@@ -366,50 +329,26 @@
   plugin: sources.py
   file: sources.yaml
 - id: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
-  title: 'RNA Exosome Complex-Mediated Control of Redox Status in Pluripotent Stem Cells'
-  authors:
-  - Maria Skamagki
-  - Cheng Zhang
-  - Christian A. Ross
-  - Aparna Ananthanarayanan
-  - Zhong Liu
-  - Quanhua Mu
-  - Uttiya Basu
-  - Jiguang Wang
-  - Rui Zhao
-  - Hu Li
-  - Kitai Kim
-  publisher: Stem Cell Reports
-  date: '2017-10-10'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.watres.2015.09.010
-  title: 'Prevalence and proliferation of antibiotic resistance genes in two municipal wastewater treatment plants'
-  authors:
-  - Daqing Mao
-  - Shuai Yu
-  - Michal Rysz
-  - Yi Luo
-  - Fengxia Yang
-  - Fengxiang Li
-  - Jie Hou
-  - Quanhua Mu
-  - P.J.J. Alvarez
-  publisher: Water Research
-  date: '2015-11-15'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/10.1016/j.watres.2015.09.010
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.scitotenv.2015.05.046
-  title: 'Fate and proliferation of typical antibiotic resistance genes in five full-scale pharmaceutical wastewater treatment plants'
-  authors:
-  - Jilu Wang
-  - Daqing Mao
-  - Quanhua Mu
-  - Yi Luo
-  publisher: Science of the Total Environment
-  date: '2015-09-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/10.1016/j.scitotenv.2015.05.046
   plugin: sources.py
   file: sources.yaml
