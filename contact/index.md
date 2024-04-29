@@ -6,7 +6,7 @@ nav:
 ---
 
 #### PhD Students in Computational Biology
-Dr Quanhua Mu, a new assistant professor at the Department of Applied Biology and Chemical Technology, Hong Kong Polytechnic University, has openings for **two** fully funded PhD students (starting in September 2024). Dr Mu's research will focus on computational investigation of human diseases. More details of the research in the Mu Lab is described below. Interested students are encouraged to contact Dr Mu via email ([qmucbeATustDOThk](mailto:qmucbe@ust.hk)).
+Dr Quanhua Mu, a new assistant professor at the Department of Applied Biology and Chemical Technology, Hong Kong Polytechnic University, has openings for **two** fully funded PhD students (starting in September 2024). Dr Mu's research will focus on computational investigation of human diseases. More details of the research in the Mu Lab are described below. Interested students are encouraged to contact Dr Mu via email ([qmucbeATustDOThk](mailto:qmucbe@ust.hk)).
 
 #### Our research
 Research in the Mu Lab is focused on the development and application of computational approaches to mine multi-omics data of human diseases, with the aim of revealing key factors regulating cancer drug response and tumor progression. Drug resistance is a major obstacle undermining the efficacy of cancer therapy. It is now recognized that drug resistance is a multi-faceted problem where genomics, epigenetics, and tumor microenvironment are all playing a role. We will therefore develop innovative computational methods, from basic statistical tests to machine learning and artificial intelligence, to analyze multi-omics data to identify biomarkers and drug targets useful for disease treatment.
