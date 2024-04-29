@@ -37,7 +37,7 @@
   link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
   type: paper
   description: Identifying predictors of glioma evolution from longitudinal sequencing
-  image: https://www.science.org/cms/10.1126/scitranslmed.adh4181/asset/4175e9ea-a307-4955-90f9-ff3d5a3707db/assets/images/large/scitranslmed.adh4181-f4.jpg
+  image: https://www.science.org/cms/asset/9a45e350-fd65-4c7f-a78b-0c9c7764e6eb/stm.2023.15.issue-716.largecover.jpg
   buttons:
   - type: website
     link: http://www.wang-lab-hkust.com:3838/cello2
@@ -65,7 +65,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
-  image: https://www.pnas.org/cms/10.1073/pnas.2303114120/asset/ee2873b1-32a8-436e-9380-75da7c84c4c6/assets/images/large/pnas.2303114120fig01.jpg
+  image: https://www.pnas.org/cms/asset/dc351847-695d-465d-8347-32e00fe78d43/pnas.2023.120.issue-49.largecover.png
   tags:
   - cancer drug resistance
   plugin: sources.py
@@ -90,7 +90,7 @@
   publisher: Brain Pathology
   date: '2023-07-01'
   link: https://onlinelibrary.wiley.com/doi/10.1111/bpa.13153
-  image: https://onlinelibrary.wiley.com/cms/asset/0522cb01-6acb-461b-b286-26d03c0c022c/bpa13153-fig-0001-m.png
+  image: https://onlinelibrary.wiley.com/cms/asset/26681dff-d0cd-4649-bfd2-06cb96cb08a6/bpa.v33.4.cover.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1186/s13073-023-01165-8
@@ -123,7 +123,7 @@
   publisher: Genome Medicine
   date: '2023-03-13'
   link: https://doi.org/10.1186/s13073-023-01165-8
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-023-01165-8/MediaObjects/13073_2023_1165_Fig1_HTML.png
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13073.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1126/sciadv.abp8901
@@ -144,7 +144,7 @@
   publisher: Science Advances
   date: '2023-01-06'
   link: https://www.science.org/doi/10.1126/sciadv.abp8901
-  image: https://www.science.org/cms/10.1126/sciadv.abp8901/asset/708bcb27-6c48-420d-8690-f0eb9902550b/assets/images/large/sciadv.abp8901-f1.jpg
+  image: https://www.science.org/cms/asset/1528b7c2-51c2-4c18-ae72-12c2743055c9/sciadv.2023.9.issue-1.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s44178-022-00014-9
@@ -201,7 +201,7 @@
   publisher: Nature Communications
   date: '2021-11-18'
   link: https://www.nature.com/articles/s41467-021-27017-w
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-27017-w/MediaObjects/41467_2021_27017_Fig1_HTML.png
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   buttons:
   - type: website
     link: https://wanglab.shinyapps.io/metanet/#-en
@@ -225,6 +225,7 @@
   publisher: Environmental Science & Technology
   date: '2021-11-02'
   link: https://pubs.acs.org/doi/10.1021/acs.est.1c03010
+  image: https://pubs.acs.org/cms/10.1021/esthag.2021.55.issue-21/asset/183f9f04-7018-f9f0-3701-3f9f04370183/esthag.2021.55.issue-21.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.scitotenv.2020.144509
@@ -236,6 +237,7 @@
   publisher: Science of The Total Environment
   date: '2021-04-01'
   link: https://doi.org/10.1016/j.scitotenv.2020.144509
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969720X00556-cov150h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s40484-020-0218-1
@@ -248,6 +250,7 @@
   publisher: Quantitative Biology
   date: '2020-09-01'
   link: https://onlinelibrary.wiley.com/doi/10.1007/s40484-020-0218-1
+  image: https://onlinelibrary.wiley.com/cms/asset/56dca4bf-7720-49ab-9b17-39bbffd131da/qub2.v8.3.cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1038/s41467-020-17717-0
@@ -275,6 +278,7 @@
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/acs.est.9b04116
@@ -292,6 +296,7 @@
   publisher: Environmental Science & Technology
   date: '2020-04-07'
   link: https://pubs.acs.org/doi/10.1021/acs.est.9b04116
+  image: https://pubs.acs.org/cms/10.1021/esthag.2020.54.issue-7/asset/17a86a2f-0117-86a2-a011-a86a2fa0117a/esthag.2020.54.issue-7.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2019.2944827
@@ -303,6 +308,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2021-01-01'
   link: https://doi.org/gtsgtp
+  image: https://csdl-images.ieeecomputer.org/website/default-covers/trans/tb.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.gpb.2018.07.007
@@ -314,6 +320,7 @@
   publisher: Genomics, Proteomics & Bioinformatics
   date: '2019-08-01'
   link: https://doi.org/10.1016/j.gpb.2018.07.007
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1672022919X00078-cov150h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.cell.2018.09.038
@@ -352,7 +359,8 @@
   - Tao Jiang
   publisher: Cell
   date: '2018-11-29'
-  link: https://doi.org/10.1016/j.cell.2018.09.038
+  link: https://www.sciencedirect.com/science/article/pii/S0092867418312509
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867417X00251-cov200h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/acs.est.8b01468
@@ -367,6 +375,7 @@
   publisher: Environmental Science & Technology
   date: '2018-08-07'
   link: https://pubs.acs.org/doi/10.1021/acs.est.8b01468
+  image: https://pubs.acs.org/cms/10.1021/esthag.2018.52.issue-15/asset/17e92854-0a17-9285-50a1-e9285450a17e/esthag.2018.52.issue-15.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
@@ -385,7 +394,8 @@
   - Kitai Kim
   publisher: Stem Cell Reports
   date: '2017-10-10'
-  link: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
+  link: https://www.sciencedirect.com/science/article/pii/S2213671117303818
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213671116X00112-cov200h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.watres.2015.09.010
@@ -403,6 +413,7 @@
   publisher: Water Research
   date: '2015-11-15'
   link: https://doi.org/10.1016/j.watres.2015.09.010
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135415X00169-cov150h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.scitotenv.2015.05.046
@@ -415,6 +426,7 @@
   publisher: Science of the Total Environment
   date: '2015-09-01'
   link: https://doi.org/10.1016/j.scitotenv.2015.05.046
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969715X0012X-cov150h.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1371/journal.pone.0126784
@@ -428,6 +440,7 @@
   publisher: PLOS ONE
   date: '2015-05-07'
   link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126784
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PLOS_ONE_logo_2012.svg/600px-PLOS_ONE_logo_2012.svg.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s11356-014-3905-5
@@ -443,6 +456,7 @@
   publisher: Environmental Science and Pollution Research
   date: '2015-05-01'
   link: https://doi.org/10.1007/s11356-014-3905-5
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11356?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s11356-014-3632-y
@@ -459,6 +473,7 @@
   publisher: Environmental Science and Pollution Research
   date: '2015-03-01'
   link: https://doi.org/10.1007/s11356-014-3632-y
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11356?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/ez500103v
@@ -473,6 +488,7 @@
   publisher: Environmental Science & Technology Letters
   date: '2014-05-13'
   link: https://pubs.acs.org/doi/10.1021/ez500103v
+  image: https://pubs.acs.org/cms/10.1021/estlcu.2014.1.issue-5/asset/1460509c-ab14-0509-5ab1-60509c5ab146/estlcu.2014.1.issue-5.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1021/es404280v
@@ -490,5 +506,6 @@
   publisher: Environmental Science & Technology
   date: '2014-01-07'
   link: https://pubs.acs.org/doi/10.1021/es404280v
+  image: https://pubs.acs.org/cms/10.1021/esthag.2014.48.issue-1/asset/1458c842-2214-8c84-e221-58c842e22145/esthag.2014.48.issue-1.largecover.jpg
   plugin: sources.py
   file: sources.yaml
