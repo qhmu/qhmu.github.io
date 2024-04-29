@@ -36,13 +36,13 @@
   date: '2023-10-04'
   link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
   type: paper
-  description: Identifying predictors of glioma evolution from longitudinal sequencing
+  description: We characterized the evolution landscape of three subtypes of gliomas, and identified early predictors of glioma evolution.
   image: https://www.science.org/cms/asset/9a45e350-fd65-4c7f-a78b-0c9c7764e6eb/stm.2023.15.issue-716.largecover.jpg
   buttons:
   - type: website
     link: http://www.wang-lab-hkust.com:3838/cello2
   tags:
-  - cancer drug resistance
+  - cancer evolution
   - hypermutation
   plugin: sources.py
   file: sources.yaml
@@ -66,6 +66,7 @@
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
   type: paper
+  description: We identified DNA amplification as a driver of drug resistance, and proposed targeting the amplified DNA via triplex forming oligonucleotides (TFOs).
   image: https://www.pnas.org/cms/asset/dc351847-695d-465d-8347-32e00fe78d43/pnas.2023.120.issue-49.largecover.png
   tags:
   - cancer drug resistance
@@ -287,10 +288,11 @@
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
+  description: We discovered multiple novel MGMT fusions in temozolomide-treated recurrent gliomas, and demonstrated that they contribute to temozoloide resistance.
   type: paper
   tags:
   - cancer drug resistance
-  - precision medicine
+  - gene fusions
   image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -376,9 +378,10 @@
   publisher: Cell
   date: '2018-11-29'
   link: https://www.sciencedirect.com/science/article/pii/S0092867418312509
+  description: We discovered MET exon 14 skipping enriched in secondary glioblastomas, which activates MET signaling and brings vulnerability to MET-targeted therapy.
   type: paper
   tags:
-  - cancer drug resistance
+  - cancer progression
   - precision medicine
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867417X00251-cov200h.gif
   plugin: sources.py
