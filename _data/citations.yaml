@@ -92,7 +92,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1186/s13073-023-01165-8
-  title: Pharmacogenomic profiling reveals molecular features of chemotherapy resistance in IDH wild-type primary glioblastoma
+  title: Pharmacogenomic profiling reveals molecular features of chemotherapy resistance
+    in IDH wild-type primary glioblastoma
   authors:
   - Yoonhee Nam
   - Harim Koo
@@ -120,7 +121,6 @@
   publisher: Genome Medicine
   date: '2023-03-13'
   link: https://doi.org/10.1186/s13073-023-01165-8
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-023-01165-8/MediaObjects/13073_2023_1165_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1126/sciadv.abp8901
