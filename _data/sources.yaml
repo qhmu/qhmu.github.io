@@ -1,16 +1,11 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi: 10.1126/scitranslmed.adh4181
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Identifying predictors of glioma evolution from longitudinal sequencing
+  date: 2023-10-4
+  image: https://www.science.org/cms/10.1126/scitranslmed.adh4181/asset/4175e9ea-a307-4955-90f9-ff3d5a3707db/assets/images/large/scitranslmed.adh4181-f4.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: http://www.wang-lab-hkust.com:3838/cello2
   tags:
     - open science
     - collaboration
