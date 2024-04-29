@@ -1,0 +1,485 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1126/scitranslmed.adh4181
+  title: Identifying predictors of glioma evolution from longitudinal sequencing
+  authors:
+  - Quanhua Mu
+  - Ruichao Chai
+  - Bo Pang
+  - Yingxi Yang
+  - Hanjie Liu
+  - Zheng Zhao
+  - Zhaoshi Bao
+  - Dong Song
+  - Zhihan Zhu
+  - Mengli Yan
+  - Biaobin Jiang
+  - Zongchao Mo
+  - Jihong Tang
+  - Jason K. Sa
+  - Hee Jin Cho
+  - Yuzhou Chang
+  - Kaitlin Hao Yi Chan
+  - Danson Shek Chun Loi
+  - Sindy Sing Ting Tam
+  - Aden Ka Yin Chan
+  - Angela Ruohao Wu
+  - Zhaoqi Liu
+  - Wai Sang Poon
+  - Ho Keung Ng
+  - Danny Tat Ming Chan
+  - Antonio Iavarone
+  - Do-Hyun Nam
+  - Tao Jiang
+  - Jiguang Wang
+  publisher: Science Translational Medicine
+  date: '2023-10-04'
+  link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
+  type: paper
+  description: Identifying predictors of glioma evolution from longitudinal sequencing
+  image: https://www.science.org/cms/10.1126/scitranslmed.adh4181/asset/4175e9ea-a307-4955-90f9-ff3d5a3707db/assets/images/large/scitranslmed.adh4181-f4.jpg
+  buttons:
+  - type: website
+    link: http://www.wang-lab-hkust.com:3838/cello2
+  tags:
+  - cancer drug resistance
+  - hypermutation
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1073/pnas.2303114120
+  title: Adaptive DNA amplification of synthetic gene circuit opens a way to overcome
+    cancer chemoresistance
+  authors:
+  - Yiming Wan
+  - Quanhua Mu
+  - "Rafa\u0142 Krzyszto\u0144"
+  - Joseph Cohen
+  - Damiano Coraci
+  - Christopher Helenek
+  - Christopher Tompkins
+  - Annie Lin
+  - Kevin Farquhar
+  - Erin Cross
+  - Jiguang Wang
+  - "G\xE1bor Bal\xE1zsi"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-12-05'
+  link: https://pnas.org/doi/10.1073/pnas.2303114120
+  image: https://www.pnas.org/cms/10.1073/pnas.2303114120/asset/ee2873b1-32a8-436e-9380-75da7c84c4c6/assets/images/large/pnas.2303114120fig01.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1111/bpa.13153
+  title: "Genomic profiling and prognostic factors of H3 K27M-mutant spinal cord diffuse glioma"
+  authors:
+  - "Ruichao Chai"
+  - Hao Yan
+  - "Songyuan An"
+  - Bo Pang
+  - "Huiyuan Chen"
+  - "Quanhua Mu"
+  - "Kenan Zhang"
+  - "Yaowu Zhang"
+  - "Yuqing Liu"
+  - Xing Liu
+  - Zheng Zhao
+  - Tao Jiang
+  - "Yongzhi Wang"
+  - "Wenqing Jia"
+  publisher: Brain Pathology
+  date: '2023-07-01'
+  link: https://onlinelibrary.wiley.com/doi/10.1111/bpa.13153
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1186/s13073-023-01165-8
+  title: Pharmacogenomic profiling reveals molecular features of chemotherapy resistance
+    in IDH wild-type primary glioblastoma
+  authors:
+  - Yoonhee Nam
+  - Harim Koo
+  - Yingxi Yang
+  - Sang Shin
+  - Zhihan Zhu
+  - Donggeon Kim
+  - Hee Jin Cho
+  - Quanhua Mu
+  - Seung Won Choi
+  - Jason K. Sa
+  - Yun Jee Seo
+  - Yejin Kim
+  - Kyoungmin Lee
+  - Jeong-Woo Oh
+  - Yong-Jun Kwon
+  - Woong-Yang Park
+  - Doo-Sik Kong
+  - Ho Jun Seol
+  - Jung-Il Lee
+  - Chul-Kee Park
+  - Hye Won Lee
+  - Yeup Yoon
+  - Jiguang Wang
+  publisher: Genome Medicine
+  date: '2023-03-13'
+  link: https://doi.org/10.1186/s13073-023-01165-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-023-01165-8/MediaObjects/13073_2023_1165_Fig1_HTML.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1126/sciadv.abp8901
+  title: 'scONE-seq: A single-cell multi-omics method enables simultaneous dissection
+    of phenotype and genotype heterogeneity from frozen tumors'
+  authors:
+  - Lei Yu
+  - Xinlei Wang
+  - Quanhua Mu
+  - Sindy Sing Ting Tam
+  - Danson Shek Chun Loi
+  - Aden K. Y. Chan
+  - Wai Sang Poon
+  - Ho-Keung Ng
+  - Danny T. M. Chan
+  - Jiguang Wang
+  - Angela Ruohao Wu
+  publisher: Science Advances
+  date: '2023-01-06'
+  link: https://www.science.org/doi/10.1126/sciadv.abp8901
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s44178-022-00014-9
+  title: MET fusions and splicing variants convergently define a subgroup of glioma
+    sensitive to MET inhibitors
+  authors:
+  - Ke-Nan Zhang
+  - Zheng Zhao
+  - Jing Chen
+  - Zhaoshi Bao
+  - Rui-Chao Chai
+  - Zhiyan Sun
+  - Lingxiang Wu
+  - Zhiliang Wang
+  - Hanjie Liu
+  - Quanhua Mu
+  - Huimin Hu
+  - Fan Zeng
+  - Zheng Wang
+  - Guanzhang Li
+  - Yuanhao Chang
+  - Qiangwei Wang
+  - Fan Wu
+  - Ying Zhang
+  - Yuqing Liu
+  - Chunjie Jiang
+  - Ulf Dietrich Kahlert
+  - Do-Hyun Nam
+  - Wei Zhang
+  - Chunsheng Kang
+  - Jiguang Wang
+  - Rongjie Tao
+  - Qianghu Wang
+  - Tao Jiang
+  publisher: Holistic Integrative Oncology
+  date: '2022-11-20'
+  link: https://doi.org/10.1007/s44178-022-00014-9
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s41467-021-27017-w
+  title: Machine learning of genomic features in organotropic metastases stratifies
+    progression risk of primary tumors
+  authors:
+  - Biaobin Jiang
+  - Quanhua Mu
+  - Fufang Qiu
+  - Xuefeng Li
+  - Weiqi Xu
+  - Jun Yu
+  - Weilun Fu
+  - Yong Cao
+  - Jiguang Wang
+  publisher: Nature Communications
+  date: '2021-11-18'
+  link: https://www.nature.com/articles/s41467-021-27017-w
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1021/acs.est.1c03010
+  title: Long-Term Succession Shows Interspecies Competition of <i>Geobacter</i> in
+    Exoelectrogenic Biofilms
+  authors:
+  - Xuejun Yan
+  - Qing Du
+  - Quanhua Mu
+  - Lili Tian
+  - Yuxuan Wan
+  - Chengmei Liao
+  - Lean Zhou
+  - Yuqing Yan
+  - Nan Li
+  - Bruce E. Logan
+  - Xin Wang
+  publisher: Environmental Science & Technology
+  date: '2021-11-02'
+  link: https://pubs.acs.org/doi/10.1021/acs.est.1c03010
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.scitotenv.2020.144509
+  title: 'Metagenomic and bioanalytical insights into quorum sensing of methanogens in anaerobic digestion systems with or without the addition of conductive filter'
+  authors:
+  - Qing Du
+  - Quanhua Mu
+  - Guangxue Wu
+  publisher: Science of The Total Environment
+  date: '2021-04-01'
+  link: https://doi.org/10.1016/j.scitotenv.2020.144509
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s40484-020-0218-1
+  title: 'CELLO: a longitudinal data analysis toolbox untangling cancer evolution'
+  authors:
+  - Biaobin Jiang
+  - Dong Song
+  - Quanhua Mu
+  - Jiguang Wang
+  publisher: Quantitative Biology
+  date: '2020-09-01'
+  link: https://onlinelibrary.wiley.com/doi/10.1007/s40484-020-0218-1
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1038/s41467-020-17717-0
+  title: MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas
+  authors:
+  - Barbara Oldrini
+  - Nuria Vaquero-Siguero
+  - Quanhua Mu
+  - Paula Kroon
+  - Ying Zhang
+  - "Marcos Gal\xE1n-Ganga"
+  - Zhaoshi Bao
+  - Zheng Wang
+  - Hanjie Liu
+  - Jason K. Sa
+  - Junfei Zhao
+  - Hoon Kim
+  - Sandra Rodriguez-Perales
+  - Do-Hyun Nam
+  - Roel G. W. Verhaak
+  - Raul Rabadan
+  - Tao Jiang
+  - Jiguang Wang
+  - Massimo Squatrito
+  publisher: Nature Communications
+  date: '2020-08-04'
+  link: https://www.nature.com/articles/s41467-020-17717-0
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1021/acs.est.9b04116
+  title: Ionic Liquid Enriches the Antibiotic Resistome, Especially Efflux Pump Genes,
+    Before Significantly Affecting Microbial Community Structure
+  authors:
+  - Xiaolong Wang
+  - Zeyou Chen
+  - Quanhua Mu
+  - Xinyan Wu
+  - Jingjing Zhang
+  - Daqing Mao
+  - Yi Luo
+  - Pedro J. J. Alvarez
+  publisher: Environmental Science & Technology
+  date: '2020-04-07'
+  link: https://pubs.acs.org/doi/10.1021/acs.est.9b04116
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCBB.2019.2944827
+  title: 'CNAPE: A Machine Learning Method for Copy Number Alteration Prediction from
+    Gene Expression'
+  authors:
+  - Quanhua Mu
+  - Jiguang Wang
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2021-01-01'
+  link: https://doi.org/gtsgtp
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.gpb.2018.07.007
+  title: 'Deciphering Brain Complexity Using Single-cell Sequencing'
+  authors:
+  - Quanhua Mu
+  - Yiyun Chen
+  - Jiguang Wang
+  publisher: Genomics, Proteomics & Bioinformatics
+  date: '2019-08-01'
+  link: https://doi.org/10.1016/j.gpb.2018.07.007
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.cell.2018.09.038
+  title: 'Mutational Landscape of Secondary Glioblastoma Guides MET-Targeted Trial in Brain Tumor'
+  authors:
+  - Huimin Hu
+  - Quanhua Mu
+  - Zhaoshi Bao
+  - Yiyun Chen
+  - Yanwei Liu
+  - Jing Chen
+  - Kuanyu Wang
+  - Zheng Wang
+  - Yoonhee Nam
+  - Biaobin Jiang
+  - Jason K. Sa
+  - Hee-Jin Cho
+  - Nam-Gu Her
+  - Chuanbao Zhang
+  - Zheng Zhao
+  - Ying Zhang
+  - Fan Zeng
+  - Fan Wu
+  - Xun Kang
+  - Yuqing Liu
+  - Zenghui Qian
+  - Zhiliang Wang
+  - Ruoyu Huang
+  - Qiangwei Wang
+  - Wei Zhang
+  - Xiaoguang Qiu
+  - Wenbin Li
+  - Do-Hyun Nam
+  - Xiaolong Fan
+  - Jiguang Wang
+  - Tao Jiang
+  publisher: Cell
+  date: '2018-11-29'
+  link: https://doi.org/10.1016/j.cell.2018.09.038
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1021/acs.est.8b01468
+  title: Real-Time Imaging Revealed That Exoelectrogens from Wastewater Are Selected
+    at the Center of a Gradient Electric Field
+  authors:
+  - Qing Du
+  - Quanhua Mu
+  - Tao Cheng
+  - Nan Li
+  - Xin Wang
+  publisher: Environmental Science & Technology
+  date: '2018-08-07'
+  link: https://pubs.acs.org/doi/10.1021/acs.est.8b01468
+  plugin: sources.py
+  file: sources.yaml
+- id: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
+  title: 'RNA Exosome Complex-Mediated Control of Redox Status in Pluripotent Stem Cells'
+  authors:
+  - Maria Skamagki
+  - Cheng Zhang
+  - Christian A. Ross
+  - Aparna Ananthanarayanan
+  - Zhong Liu
+  - Quanhua Mu
+  - Uttiya Basu
+  - Jiguang Wang
+  - Rui Zhao
+  - Hu Li
+  - Kitai Kim
+  publisher: Stem Cell Reports
+  date: '2017-10-10'
+  link: http://dx.doi.org/10.1016/j.stemcr.2017.08.024
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.watres.2015.09.010
+  title: 'Prevalence and proliferation of antibiotic resistance genes in two municipal wastewater treatment plants'
+  authors:
+  - Daqing Mao
+  - Shuai Yu
+  - Michal Rysz
+  - Yi Luo
+  - Fengxia Yang
+  - Fengxiang Li
+  - Jie Hou
+  - Quanhua Mu
+  - P.J.J. Alvarez
+  publisher: Water Research
+  date: '2015-11-15'
+  link: https://doi.org/10.1016/j.watres.2015.09.010
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1016/j.scitotenv.2015.05.046
+  title: 'Fate and proliferation of typical antibiotic resistance genes in five full-scale pharmaceutical wastewater treatment plants'
+  authors:
+  - Jilu Wang
+  - Daqing Mao
+  - Quanhua Mu
+  - Yi Luo
+  publisher: Science of the Total Environment
+  date: '2015-09-01'
+  link: https://doi.org/10.1016/j.scitotenv.2015.05.046
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1371/journal.pone.0126784
+  title: Enhanced Horizontal Transfer of Antibiotic Resistance Genes in Freshwater
+    Microcosms Induced by an Ionic Liquid
+  authors:
+  - Qing Wang
+  - Daqing Mao
+  - Quanhua Mu
+  - Yi Luo
+  publisher: PLOS ONE
+  date: '2015-05-07'
+  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126784
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s11356-014-3905-5
+  title: Occurrence of sulfonamide-, tetracycline-, plasmid-mediated quinolone- and
+    macrolide-resistance genes in livestock feedlots in Northern China
+  authors:
+  - Quanhua Mu
+  - Jin Li
+  - Yingxue Sun
+  - Daqing Mao
+  - Qing Wang
+  - Yi Luo
+  publisher: Environmental Science and Pollution Research
+  date: '2015-05-01'
+  link: https://doi.org/10.1007/s11356-014-3905-5
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s11356-014-3632-y
+  title: Occurrence and distribution of sulfonamides, tetracyclines, quinolones, macrolides,
+    and nitrofurans in livestock manure and amended soils of Northern China
+  authors:
+  - Jie Hou
+  - Weining Wan
+  - Daqing Mao
+  - Chong Wang
+  - Quanhua Mu
+  - Songyan Qin
+  - Yi Luo
+  publisher: Environmental Science and Pollution Research
+  date: '2015-03-01'
+  link: https://doi.org/10.1007/s11356-014-3632-y
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1021/ez500103v
+  title: An Ionic Liquid Facilitates the Proliferation of Antibiotic Resistance Genes
+    Mediated by Class I Integrons
+  authors:
+  - Yi Luo
+  - Qing Wang
+  - Qian Lu
+  - Quanhua Mu
+  - Daqing Mao
+  publisher: Environmental Science & Technology Letters
+  date: '2014-05-13'
+  link: https://pubs.acs.org/doi/10.1021/ez500103v
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1021/es404280v
+  title: Persistence of Extracellular DNA in River Sediment Facilitates Antibiotic
+    Resistance Gene Propagation
+  authors:
+  - Daqing Mao
+  - Yi Luo
+  - Jacques Mathieu
+  - Qing Wang
+  - Ling Feng
+  - Quanhua Mu
+  - Chunyan Feng
+  - P. J. J. Alvarez
+  publisher: Environmental Science & Technology
+  date: '2014-01-07'
+  link: https://pubs.acs.org/doi/10.1021/es404280v
+  plugin: sources.py
+  file: sources.yaml
