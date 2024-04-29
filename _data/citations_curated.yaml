@@ -3,7 +3,7 @@
 - id: doi:10.1126/scitranslmed.adh4181
   title: Identifying predictors of glioma evolution from longitudinal sequencing
   authors:
-  - Quanhua Mu
+  - Quanhua Mu*
   - Ruichao Chai
   - Bo Pang
   - Yingxi Yang
@@ -65,6 +65,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
+  type: paper
   image: https://www.pnas.org/cms/asset/dc351847-695d-465d-8347-32e00fe78d43/pnas.2023.120.issue-49.largecover.png
   tags:
   - cancer drug resistance
@@ -90,6 +91,7 @@
   publisher: Brain Pathology
   date: '2023-07-01'
   link: https://onlinelibrary.wiley.com/doi/10.1111/bpa.13153
+  type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/26681dff-d0cd-4649-bfd2-06cb96cb08a6/bpa.v33.4.cover.gif
   plugin: sources.py
   file: sources.yaml
@@ -123,6 +125,7 @@
   publisher: Genome Medicine
   date: '2023-03-13'
   link: https://doi.org/10.1186/s13073-023-01165-8
+  type: paper
   image: https://media.springernature.com/w184/springer-static/cover/journal/13073.jpg
   plugin: sources.py
   file: sources.yaml
@@ -144,6 +147,7 @@
   publisher: Science Advances
   date: '2023-01-06'
   link: https://www.science.org/doi/10.1126/sciadv.abp8901
+  type: paper
   image: https://www.science.org/cms/asset/1528b7c2-51c2-4c18-ae72-12c2743055c9/sciadv.2023.9.issue-1.largecover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -182,6 +186,7 @@
   publisher: Holistic Integrative Oncology
   date: '2022-11-20'
   link: https://doi.org/10.1007/s44178-022-00014-9
+  type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/44178?as=webp
   plugin: sources.py
   file: sources.yaml
@@ -201,6 +206,7 @@
   publisher: Nature Communications
   date: '2021-11-18'
   link: https://www.nature.com/articles/s41467-021-27017-w
+  type: paper
   image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   buttons:
   - type: website
@@ -225,6 +231,7 @@
   publisher: Environmental Science & Technology
   date: '2021-11-02'
   link: https://pubs.acs.org/doi/10.1021/acs.est.1c03010
+  type: paper
   image: https://pubs.acs.org/cms/10.1021/esthag.2021.55.issue-21/asset/183f9f04-7018-f9f0-3701-3f9f04370183/esthag.2021.55.issue-21.largecover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -237,6 +244,7 @@
   publisher: Science of The Total Environment
   date: '2021-04-01'
   link: https://doi.org/10.1016/j.scitotenv.2020.144509
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969720X00556-cov150h.gif
   plugin: sources.py
   file: sources.yaml
@@ -250,6 +258,7 @@
   publisher: Quantitative Biology
   date: '2020-09-01'
   link: https://onlinelibrary.wiley.com/doi/10.1007/s40484-020-0218-1
+  type: paper
   image: https://onlinelibrary.wiley.com/cms/asset/56dca4bf-7720-49ab-9b17-39bbffd131da/qub2.v8.3.cover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -278,6 +287,10 @@
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
+  type: paper
+  tags:
+  - cancer drug resistance
+  - precision medicine
   image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -296,6 +309,7 @@
   publisher: Environmental Science & Technology
   date: '2020-04-07'
   link: https://pubs.acs.org/doi/10.1021/acs.est.9b04116
+  type: paper
   image: https://pubs.acs.org/cms/10.1021/esthag.2020.54.issue-7/asset/17a86a2f-0117-86a2-a011-a86a2fa0117a/esthag.2020.54.issue-7.largecover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -308,6 +322,7 @@
   publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
   date: '2021-01-01'
   link: https://doi.org/gtsgtp
+  type: paper
   image: https://csdl-images.ieeecomputer.org/website/default-covers/trans/tb.jpg
   plugin: sources.py
   file: sources.yaml
@@ -320,6 +335,7 @@
   publisher: Genomics, Proteomics & Bioinformatics
   date: '2019-08-01'
   link: https://doi.org/10.1016/j.gpb.2018.07.007
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1672022919X00078-cov150h.gif
   plugin: sources.py
   file: sources.yaml
@@ -360,6 +376,10 @@
   publisher: Cell
   date: '2018-11-29'
   link: https://www.sciencedirect.com/science/article/pii/S0092867418312509
+  type: paper
+  tags:
+  - cancer drug resistance
+  - precision medicine
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867417X00251-cov200h.gif
   plugin: sources.py
   file: sources.yaml
@@ -375,6 +395,7 @@
   publisher: Environmental Science & Technology
   date: '2018-08-07'
   link: https://pubs.acs.org/doi/10.1021/acs.est.8b01468
+  type: paper
   image: https://pubs.acs.org/cms/10.1021/esthag.2018.52.issue-15/asset/17e92854-0a17-9285-50a1-e9285450a17e/esthag.2018.52.issue-15.largecover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -395,6 +416,7 @@
   publisher: Stem Cell Reports
   date: '2017-10-10'
   link: https://www.sciencedirect.com/science/article/pii/S2213671117303818
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2213671116X00112-cov200h.gif
   plugin: sources.py
   file: sources.yaml
@@ -413,6 +435,7 @@
   publisher: Water Research
   date: '2015-11-15'
   link: https://doi.org/10.1016/j.watres.2015.09.010
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135415X00169-cov150h.gif
   plugin: sources.py
   file: sources.yaml
@@ -426,6 +449,7 @@
   publisher: Science of the Total Environment
   date: '2015-09-01'
   link: https://doi.org/10.1016/j.scitotenv.2015.05.046
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969715X0012X-cov150h.gif
   plugin: sources.py
   file: sources.yaml
@@ -440,6 +464,7 @@
   publisher: PLOS ONE
   date: '2015-05-07'
   link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126784
+  type: paper
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PLOS_ONE_logo_2012.svg/600px-PLOS_ONE_logo_2012.svg.png
   plugin: sources.py
   file: sources.yaml
@@ -456,6 +481,7 @@
   publisher: Environmental Science and Pollution Research
   date: '2015-05-01'
   link: https://doi.org/10.1007/s11356-014-3905-5
+  type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11356?as=webp
   plugin: sources.py
   file: sources.yaml
@@ -473,6 +499,7 @@
   publisher: Environmental Science and Pollution Research
   date: '2015-03-01'
   link: https://doi.org/10.1007/s11356-014-3632-y
+  type: paper
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11356?as=webp
   plugin: sources.py
   file: sources.yaml
@@ -488,6 +515,7 @@
   publisher: Environmental Science & Technology Letters
   date: '2014-05-13'
   link: https://pubs.acs.org/doi/10.1021/ez500103v
+  type: paper
   image: https://pubs.acs.org/cms/10.1021/estlcu.2014.1.issue-5/asset/1460509c-ab14-0509-5ab1-60509c5ab146/estlcu.2014.1.issue-5.largecover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -506,6 +534,7 @@
   publisher: Environmental Science & Technology
   date: '2014-01-07'
   link: https://pubs.acs.org/doi/10.1021/es404280v
+  type: paper
   image: https://pubs.acs.org/cms/10.1021/esthag.2014.48.issue-1/asset/1458c842-2214-8c84-e221-58c842e22145/esthag.2014.48.issue-1.largecover.jpg
   plugin: sources.py
   file: sources.yaml
