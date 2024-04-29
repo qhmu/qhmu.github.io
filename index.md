@@ -1,6 +1,5 @@
 ---
 ---
-
 # Welcome to Quanhua Mu Lab!
 
 We are a computational biology laboratory in the [Department of Applied Biology and Chemical Technology (ABCT)](https://www.polyu.edu.hk/abct/), at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
