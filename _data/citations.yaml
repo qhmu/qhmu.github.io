@@ -34,7 +34,7 @@
   - Jiguang Wang
   publisher: Science Translational Medicine
   date: '2023-10-04'
-  link: https://doi.org/gst5vf
+  link: doi:10.1126/scitranslmed.adh4181
   type: paper
   description: Identifying predictors of glioma evolution from longitudinal sequencing
   image: https://www.science.org/cms/10.1126/scitranslmed.adh4181/asset/4175e9ea-a307-4955-90f9-ff3d5a3707db/assets/images/large/scitranslmed.adh4181-f4.jpg
@@ -69,8 +69,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1111/bpa.13153
-  title: "Genomic profiling and prognostic factors of <span style=\"font-variant:small-caps;\"\
-    >H3 K27M</span> \u2010mutant spinal cord diffuse glioma"
+  title: "Genomic profiling and prognostic factors of H3 K27M-mutant spinal cord diffuse glioma"
   authors:
   - "Rui\u2010Chao Chai"
   - Hao Yan
