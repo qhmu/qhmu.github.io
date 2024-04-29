@@ -27,7 +27,6 @@
       </a>
     {% endif %}
 
-    <div style="float:right;" data-badge-popover="right" data-badge-type="donut" data-doi="10.1126/scitranslmed.adh4181" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
     <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
@@ -44,7 +43,7 @@
 
       <div
         class="citation-authors"
-        {% if citation.authors.size > 10 %}
+        {% if citation.authors.size > 100 %}
           data-tooltip="{{ citation.authors | join: ", " }} "
         {% endif %}
         tabindex="0"
@@ -53,7 +52,7 @@
           citation.authors
           | join: ","
           | split: ","
-          | array_carve: 5
+          | array_carve: 20
           | join: ", "
           | markdownify
           | remove: "<p>" | remove: "</p>"

@@ -3,8 +3,8 @@
 - id: doi:10.1126/scitranslmed.adh4181
   title: Identifying predictors of glioma evolution from longitudinal sequencing
   authors:
-  - Quanhua Mu*
-  - Ruichao Chai
+  - Quanhua Mu\*
+  - Ruichao Chai*
   - Bo Pang
   - Yingxi Yang
   - Hanjie Liu
@@ -28,10 +28,10 @@
   - Wai Sang Poon
   - Ho Keung Ng
   - Danny Tat Ming Chan
-  - Antonio Iavarone
-  - Do-Hyun Nam
-  - Tao Jiang
-  - Jiguang Wang
+  - Antonio Iavarone#
+  - Do-Hyun Nam#
+  - Tao Jiang#
+  - Jiguang Wang#
   publisher: Science Translational Medicine
   date: '2023-10-04'
   link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
@@ -52,9 +52,9 @@
   title: Adaptive DNA amplification of synthetic gene circuit opens a way to overcome
     cancer chemoresistance
   authors:
-  - Yiming Wan
-  - Quanhua Mu
-  - "Rafa\u0142 Krzyszto\u0144"
+  - Yiming Wan\*
+  - Quanhua Mu\*
+  - "Rafa\u0142 Krzyszto\u0144*"
   - Joseph Cohen
   - Damiano Coraci
   - Christopher Helenek
@@ -63,7 +63,7 @@
   - Kevin Farquhar
   - Erin Cross
   - Jiguang Wang
-  - "G\xE1bor Bal\xE1zsi"
+  - "G\xE1bor Bal\xE1zsi#"
   publisher: Proceedings of the National Academy of Sciences
   date: '2023-12-05'
   link: https://pnas.org/doi/10.1073/pnas.2303114120
@@ -220,8 +220,8 @@
   title: Long-Term Succession Shows Interspecies Competition of <i>Geobacter</i> in
     Exoelectrogenic Biofilms
   authors:
-  - Xuejun Yan
-  - Qing Du
+  - Xuejun Yan\*
+  - Qing Du\*
   - Quanhua Mu
   - Lili Tian
   - Yuxuan Wan
@@ -271,9 +271,9 @@
 - id: https://doi.org/10.1038/s41467-020-17717-0
   title: MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas
   authors:
-  - Barbara Oldrini
-  - Nuria Vaquero-Siguero
-  - Quanhua Mu
+  - Barbara Oldrini\*
+  - Nuria Vaquero-Siguero\*
+  - Quanhua Mu\*
   - Paula Kroon
   - Ying Zhang
   - "Marcos Gal\xE1n-Ganga"
@@ -287,9 +287,9 @@
   - Do-Hyun Nam
   - Roel G. W. Verhaak
   - Raul Rabadan
-  - Tao Jiang
-  - Jiguang Wang
-  - Massimo Squatrito
+  - Tao Jiang#
+  - Jiguang Wang#
+  - Massimo Squatrito#
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
@@ -305,9 +305,9 @@
   title: Ionic Liquid Enriches the Antibiotic Resistome, Especially Efflux Pump Genes,
     Before Significantly Affecting Microbial Community Structure
   authors:
-  - Xiaolong Wang
-  - Zeyou Chen
-  - Quanhua Mu
+  - Xiaolong Wang\*
+  - Zeyou Chen\*
+  - Quanhua Mu\*
   - Xinyan Wu
   - Jingjing Zhang
   - Daqing Mao
@@ -352,11 +352,11 @@
 - id: https://doi.org/10.1016/j.cell.2018.09.038
   title: 'Mutational Landscape of Secondary Glioblastoma Guides MET-Targeted Trial in Brain Tumor'
   authors:
-  - Huimin Hu
-  - Quanhua Mu
-  - Zhaoshi Bao
-  - Yiyun Chen
-  - Yanwei Liu
+  - Huimin Hu\*
+  - Quanhua Mu\*
+  - Zhaoshi Bao\*
+  - Yiyun Chen\*
+  - Yanwei Liu\*
   - Jing Chen
   - Kuanyu Wang
   - Zheng Wang
@@ -380,13 +380,13 @@
   - Xiaoguang Qiu
   - Wenbin Li
   - Do-Hyun Nam
-  - Xiaolong Fan
-  - Jiguang Wang
-  - Tao Jiang
+  - Xiaolong Fan#
+  - Jiguang Wang#
+  - Tao Jiang#
   publisher: Cell
   date: '2018-11-29'
   link: https://www.sciencedirect.com/science/article/pii/S0092867418312509
-  description: We discovered MET exon 14 skipping enriched in secondary glioblastomas, which activates MET signaling and brings vulnerability to MET-targeted therapy.
+  description: We discovered MET exon 14 skipping enriched in secondary glioblastomas, which activates MET signaling and brings vulnerability to MET-targeted therapy as demonstrated in pre-clinical models and a clinical trial.
   type: paper
   tags:
   - cancer progression

@@ -1,20 +1,16 @@
 ---
 ---
 
-# Mu Lab of Computational Biology
+# Welcome to Quanhua Mu Lab!
 
-{% include section.html %}
+We are a computational biology laboratory in the [Department of Applied Biology and Chemical Technology (ABCT)](https://www.polyu.edu.hk/abct/), at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
 
-
-We are a computational biology laboratory at the Department of Applied Biology and Chemical Technology (ABCT), The Hong Kong Polytechnic University.
-
+<span style="color:red">We are recruiting!! Please see [Openings](/contact) for more information, and don't hesitate to contact us if interested!</span>
 ## Highlights
-
 {% capture text %}
-
 {%
   include button.html
-  link="research"
+  link="publications"
   text="Learn more about this study"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -25,9 +21,9 @@ We are a computational biology laboratory at the Department of Applied Biology a
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Research paper 1"
+  image="images/myc.png"
+  link="publications"
+  title="Tracing early predictors of glioma evolution using CELLO2"
   text=text
 %}
 
@@ -36,7 +32,7 @@ We are a computational biology laboratory at the Department of Applied Biology a
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="Learn more about this study"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -47,16 +43,16 @@ We are a computational biology laboratory at the Department of Applied Biology a
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Research paper 2"
+  image="images/MGMT.png"
+  link="publications"
+  title="Idenfication of MGMT fusions as drivers of chemoresistance in temozolomide treated recurrent gliomas"
   text=text
 %}
 
 {% capture text %}
 {%
   include button.html
-  link="research"
+  link="publications"
   text="Learn more about this study"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -67,8 +63,8 @@ We are a computational biology laboratory at the Department of Applied Biology a
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Research paper 3"
+  image="images/MET.png"
+  link="publications"
+  title="Unravelling the mutational landscape of secondary glioblastoma"
   text=text
 %}

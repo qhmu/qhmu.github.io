@@ -9,4 +9,4 @@ nav:
 
 ### 2024-07-02
 
-Our new lab is open! A big thanks to the previous mentors and friends, and a warm welcome to the new members!
+Our new lab is open! A big thanks to my mentors and friends, and a warm welcome to the new members!
