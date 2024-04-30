@@ -316,6 +316,7 @@
   publisher: Environmental Science & Technology
   date: '2020-04-07'
   link: https://pubs.acs.org/doi/10.1021/acs.est.9b04116
+  description: We found that when the water microbiome is exposed to an ionic liquid, [BMIm][PF6], the resistome is enriched within 24 hours, long before the community strucutre was altered.
   type: paper
   image: https://pubs.acs.org/cms/10.1021/esthag.2020.54.issue-7/asset/17a86a2f-0117-86a2-a011-a86a2fa0117a/esthag.2020.54.issue-7.largecover.jpg
   plugin: sources.py
@@ -331,6 +332,7 @@
   link: https://doi.org/gtsgtp
   type: paper
   image: https://csdl-images.ieeecomputer.org/website/default-covers/trans/tb.jpg
+  description: We developed a computational method to infer copy number alterations from transcriptomic data of human cancers.
   buttons:
   - type: source
     link: https://github.com/WangLabHKUST/CNAPE
@@ -347,6 +349,7 @@
   link: https://doi.org/10.1016/j.gpb.2018.07.007
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1672022919X00078-cov150h.gif
+  description: We summarized the technologies and computational methods to analyze single cell sequencing data, as well as their application in study brain diseases.
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1016/j.cell.2018.09.038
