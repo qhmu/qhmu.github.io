@@ -341,8 +341,8 @@
 - id: https://doi.org/10.1016/j.gpb.2018.07.007
   title: 'Deciphering Brain Complexity Using Single-cell Sequencing'
   authors:
-  - Quanhua Mu
-  - Yiyun Chen
+  - Quanhua Mu\*
+  - Yiyun Chen\*
   - Jiguang Wang
   publisher: Genomics, Proteomics & Bioinformatics
   date: '2019-08-01'
