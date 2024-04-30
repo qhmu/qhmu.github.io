@@ -36,7 +36,7 @@
   date: '2023-10-04'
   link: https://www.science.org/doi/10.1126/scitranslmed.adh4181
   type: paper
-  description: We portrayed the evolution landscape of three subtypes of gliomas, and identified early predictors of glioma evolution, including MYC activation that promotes hypermutation after temozolomide treatment.
+  description: We portrayed the evolution landscape of three subtypes of gliomas, and identified early predictors of glioma evolution, including MYC activation that promoted hypermutation after temozolomide treatment.
   image: https://www.science.org/cms/asset/9a45e350-fd65-4c7f-a78b-0c9c7764e6eb/stm.2023.15.issue-716.largecover.jpg
   buttons:
   - type: website
@@ -293,7 +293,7 @@
   publisher: Nature Communications
   date: '2020-08-04'
   link: https://www.nature.com/articles/s41467-020-17717-0
-  description: We identified multiple novel MGMT fusions in temozolomide-treated recurrent gliomas, and demonstrated that they contribute to temozoloide resistance.
+  description: We identified multiple novel MGMT fusions in temozolomide-treated recurrent gliomas, and demonstrated that they contribute to temozolomide resistance.
   type: paper
   tags:
   - cancer drug resistance
@@ -389,7 +389,7 @@
   publisher: Cell
   date: '2018-11-29'
   link: https://www.sciencedirect.com/science/article/pii/S0092867418312509
-  description: We discovered MET exon 14 skipping enriched in secondary glioblastomas, which activates MET signaling and brings vulnerability to MET-targeted therapy as demonstrated in pre-clinical models and a clinical trial.
+  description: We discovered MET exon 14 skipping enriched in secondary glioblastomas, which activated MET signaling and brought vulnerability to MET-targeted therapy as demonstrated in pre-clinical models and a clinical trial.
   type: paper
   tags:
   - cancer progression
