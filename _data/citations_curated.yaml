@@ -318,7 +318,7 @@
   link: https://pubs.acs.org/doi/10.1021/acs.est.9b04116
   description: We found that when the water microbiome is exposed to an ionic liquid, [BMIm][PF6], the resistome is enriched within 24 hours, long before the community strucutre was altered.
   type: paper
-  image: https://pubs.acs.org/cms/10.1021/esthag.2020.54.issue-7/asset/17a86a2f-0117-86a2-a011-a86a2fa0117a/esthag.2020.54.issue-7.largecover.jpg
+  image: https://pubs.acs.org/cms/10.1021/esthag.2020.54.issue-7/asset/esthag.2020.54.issue-7.largecover-2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TCBB.2019.2944827
