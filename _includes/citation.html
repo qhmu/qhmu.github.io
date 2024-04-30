@@ -7,7 +7,7 @@
 {% else %}
   {% assign citation = include %}
 {% endif %}
-
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
@@ -27,11 +27,7 @@
       </a>
     {% endif %}
 
-
     <div class="citation-text">
-      {% assign type = site.data.types[citation.type] %}
-      {% include icon.html icon=type.icon %}
-
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url }}"
@@ -39,8 +35,8 @@
         class="citation-title"
       >
         {{ citation.title | default: "[no title info]" }}
+        <div style="float:right;" data-badge-popover="right" data-badge-type="donut" data-doi="{{ citation.id }}"  data-hide-no-mentions="true" class="altmetric-embed"></div>
       </a>
-
       <div
         class="citation-authors"
         {% if citation.authors.size > 100 %}
