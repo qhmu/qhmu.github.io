@@ -7,7 +7,7 @@ aliases:
   - Q Mu
 links:
   home-page: https://qhmu.github.io/
-  orcid: 0000-0002-6891-5616
+  google-scholar: UB-ecrMAAAAJ
 ---
 
 Dr Quanhua Mu will join the Hong Kong Polytechnic University in July, 2024. He received his bachelor’s and master’s degree from Nankai University, and then completed PhD and postdoc training in professor Jiguang Wang’s lab at HKUST, studying brain tumor evolution and drug resistance.
