@@ -2,7 +2,7 @@
 title: Openings
 nav:
   order: 6
-  tooltip: open positions and contact info
+  tooltip: Open positions
 ---
 
 #### PhD Students in Computational Biology
