@@ -14,9 +14,9 @@ Full list of publications can be found at [Google Scholar](https://scholar.googl
 
 {% include citation.html lookup="Identifying predictors of glioma evolution from longitudinal sequencing" style="rich" %}
 
-{% include citation.html lookup="MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas" style="rich" %}
-
 {% include citation.html lookup="Mutational Landscape of Secondary Glioblastoma Guides MET-Targeted Trial in Brain Tumor" style="rich" %}
+
+{% include citation.html lookup="MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas" style="rich" %}
 
 {% include section.html %}
 
