@@ -1,5 +1,5 @@
 ---
-name: Now Recruiting!
+name: Coming soon
 image: images/photo.jpg
 role: phd
 links:
