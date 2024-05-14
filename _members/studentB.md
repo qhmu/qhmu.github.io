@@ -7,4 +7,4 @@ links:
 
 ---
 
-虚位以待！
+Coming soon
