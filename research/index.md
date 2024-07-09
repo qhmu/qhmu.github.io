@@ -12,6 +12,7 @@ table, td, th
 th
 {
   font-size: 16px;
+  text-align: left;
 }
 td
 {
