@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We’re a computational biology laboratory working on human cancer. We aim to make biomedical discoveries that are helpful for the patients and doctors, and to develop computational tools that are useful for the research community. In addition to scientific rigor and reproducibility, as an interdisciplinary team, our core values also include learning from each other and celebrating the success of others.
+We’re a computational biology laboratory working on human cancer. We aim to make biomedical discoveries that are helpful for the patients and doctors, and to develop computational tools that are useful for the research community. In addition to scientific rigor and reproducibility, as an interdisciplinary team, our core values include learning from each other and celebrating the success of others.
 
 {% include section.html %}
 
