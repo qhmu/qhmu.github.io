@@ -16,7 +16,7 @@ th
 }
 td
 {
-	vertical-align:center;
+	vertical-align:top;
   text-align: left;
 }
 </style>
