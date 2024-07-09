@@ -36,7 +36,6 @@ Drug resistance is a major obstacle to the effectiveness of cancer treatment. De
 <img src="../images/tumor_evolution.png" alt="tumor evolution" style="height: 200px;float: right;"/>
 </td>
 </tr>
-
 <th>
 Cancer ecosystem
 </th>
@@ -48,7 +47,6 @@ In solid tumors, cancer cells are embedded in a rich milieu of immune cells and 
 <img src="../images/tme.jpg" alt="tumor microenvironment" style="height: 200px;float: right;"/>
 </td>
 </tr>
-
 <th>
 Precision medicine
 </th>
