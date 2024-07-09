@@ -6,11 +6,6 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-<style>
-  .noBorder {
-     border: 0px solid black
-  }
-</style>
 
 ## Cancer drug resistance
 <table class="noBorder">
@@ -34,7 +29,7 @@ In solid tumors, cancer cells are embedded in a rich milieu of immune cells and 
 <img src="../images/tme.png" alt="tumor microenvironment" style="height: 200px;"/>
 </td>
 </tr>
-<table>
+</table>
 
 ## Precision medicine
 <table class="noBorder">

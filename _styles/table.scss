@@ -5,6 +5,7 @@ table {
   margin: 40px auto;
   border-collapse: collapse;
   overflow-wrap: anywhere;
+  border: 0px solid black
 }
 
 th {
@@ -14,5 +15,6 @@ th {
 th,
 td {
   padding: 10px 15px;
-  border: solid 1px var(--light-gray);
+  text-align: left;
+  border: solid 0px var(--light-gray);
 }
