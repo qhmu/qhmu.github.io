@@ -11,7 +11,7 @@ table, td, th
 }
 th
 {
-  font-size: 16px;
+  font-size: 20px;
   text-align: left;
 }
 td
