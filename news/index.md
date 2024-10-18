@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2024-10-09
+
+Quanhua participated in teaching the course "Academic Integrity and Ethics in Science" at HKPolyU. His lecture is on "Ethical Use of Generative AI in Academic Research", a new topic that many people are interested in. Here are his [slides](https://drive.google.com/file/d/16vAchGXal8jISG9vMOoA4h187JZHWglW/view?usp=sharing).
+
 ### 2024-09-02
 
-Two undergraduate students, Hasin ISHRAQ and Chow Chi Yin Timothy, joined the lab for their Final Year Projects. Welcome, Hasin and Tim!
+Two undergraduate students, ISHRAQ Hasin  and Chow Chi Yin Timothy, joined the lab for their Final Year Projects. Welcome, Hasin and Tim!
 
 ### 2024-08-31
 
