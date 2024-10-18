@@ -1,5 +1,5 @@
 ---
-name: Coming soon
+name: Yulin Li
 image: images/Yulin.jpg
 role: RA
 links:
