@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2024-10-26
+
+Shout-out to the [HKPOLYU iGEM team](https://teams.igem.org/5271)! We win our first GOLD medal, and was selected as Top 10 undergraduate team, and got TWO nominations for the Best Oncology Project, and Best New Composite Part. Wow!
+
 ### 2024-10-09
 
 Quanhua participated in teaching the course "Academic Integrity and Ethics in Science" at HKPolyU. His lecture is on "Ethical Use of Generative AI in Academic Research", a new topic that many people are interested in. Here are his [slides](https://drive.google.com/file/d/16vAchGXal8jISG9vMOoA4h187JZHWglW/view?usp=sharing).
