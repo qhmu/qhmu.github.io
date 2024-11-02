@@ -216,19 +216,6 @@
     link: https://wanglab.shinyapps.io/metanet/#-en
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1016/j.scitotenv.2020.144509
-  title: 'Metagenomic and bioanalytical insights into quorum sensing of methanogens in anaerobic digestion systems with or without the addition of conductive filter'
-  authors:
-  - Qing Du
-  - Quanhua Mu
-  - Guangxue Wu
-  publisher: Science of The Total Environment
-  date: '2021-04-01'
-  link: https://doi.org/10.1016/j.scitotenv.2020.144509
-  type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969720X00556-cov150h.gif
-  plugin: sources.py
-  file: sources.yaml
 - id: https://doi.org/10.1007/s40484-020-0218-1
   title: 'CELLO: a longitudinal data analysis toolbox untangling cancer evolution'
   authors:
