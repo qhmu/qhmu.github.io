@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2024-11-01
+
+Quanhua Mu gave a talk "Decoding Glioma Drug Resistance with Big Data and Machine Learning" in the Seminar Series in Translational Genomics organized by the Department of Surgery, the Chinese University of Hong Kong.
+
 ### 2024-10-26
 
 Shout-out to the [HKPOLYU iGEM team](https://teams.igem.org/5271)! We win our first GOLD medal, and was selected as Top 10 undergraduate team, and got TWO nominations for the Best Oncology Project, and Best New Composite Part. Wow!
