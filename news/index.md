@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2024-11-19
+
+Ruge Chen and Yulin Li officially joined the lab as Research Assistant. They will become PhD students in Jan 2025. Welcome, Ruge and Yulin!
+
 ### 2024-11-01
 
 Quanhua Mu gave a talk "Decoding Glioma Drug Resistance with Big Data and Machine Learning" in the Seminar Series in Translational Genomics organized by the Department of Surgery, the Chinese University of Hong Kong.
