@@ -1,41 +1,40 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
 - id: doi:10.1016/j.xcrm.2024.101838
- title: Genetic and microenvironmental evolution of colorectal liver metastases under chemotherapy
- authors:
- - Min Shi
- - Yingxi Yang
- - Na Huang
- - Dongqiang Zeng
- - Zongchao Mo
- - Jiao Wang
- - Xiaomeng Zhang
- - Ran Liu
- - Chunlin Wang
- - Xiaoxiang Rong
- - Zhenzhen Wu
- - Qiong Huang
- - Haixia Shang
- - Jihong Tang
- - Zhaojun Wang
- - Jianan Cai
- - Genjie Huang
- - Yijin Guan
- - Jian Guo
- - Quanhua Mu
- - Jiguang Wang#
- - Wangjun Liao#
- publisher: Cell Reports Medicine
- date: '2024-12-04'
- link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00609-8
- type: paper
- image: https://www.cell.com/cms/asset/2582a3dd-c1c3-4d43-a309-f988ad4d8bc3/small_placeholder_cover.png
- buttons:
- - type: source
-   link: https://doi.org/10.5281/zenodo.13997442
- tags:
- - cancer evolution
- plugin: sources.py
- file: sources.yaml
+  title: Genetic and microenvironmental evolution of colorectal liver metastases under chemotherapy
+  authors:
+  - Min Shi
+  - Yingxi Yang
+  - Na Huang
+  - Dongqiang Zeng
+  - Zongchao Mo
+  - Jiao Wang
+  - Xiaomeng Zhang
+  - Ran Liu
+  - Chunlin Wang
+  - Xiaoxiang Rong
+  - Zhenzhen Wu
+  - Qiong Huang
+  - Haixia Shang
+  - Jihong Tang
+  - Zhaojun Wang
+  - Jianan Cai
+  - Genjie Huang
+  - Yijin Guan
+  - Jian Guo
+  - Quanhua Mu
+  - Jiguang Wang#
+  - Wangjun Liao#
+  publisher: Cell Reports Medicine
+  date: '2024-12-04'
+  link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00609-8
+  type: paper
+  image: https://www.cell.com/cms/asset/2582a3dd-c1c3-4d43-a309-f988ad4d8bc3/small_placeholder_cover.png
+  buttons:
+  - type: source
+    link: https://doi.org/10.5281/zenodo.13997442
+  tags:
+  - cancer evolution
+  plugin: sources.py
+  file: sources.yaml
 
 - id: doi:10.1126/scitranslmed.adh4181
   title: Identifying predictors of glioma evolution from longitudinal sequencing
