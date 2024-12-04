@@ -31,7 +31,7 @@
  image: https://www.cell.com/cms/asset/2582a3dd-c1c3-4d43-a309-f988ad4d8bc3/small_placeholder_cover.png
  buttons:
  - type: source
-    link: https://doi.org/10.5281/zenodo.13997442
+   link: https://doi.org/10.5281/zenodo.13997442
  tags:
  - cancer evolution
  plugin: sources.py
