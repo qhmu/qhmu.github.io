@@ -15,6 +15,10 @@ Yulin and Ruge now officially become Ph.D. students. Hope you will enjoy the jou
 
 Invited by [Dr. Xiangze Zeng](https://www.xzenglab.com/home), Quanhua Mu gave a research seminar at the Department of Physics, Hong Kong Baptist University.
 
+### 2024-11-19
+
+Ruge Chen and Yulin Li joined the lab as Research Assistant. They will become PhD students in Jan 2025. Welcome, Ruge and Yulin!
+
 ### 2024-11-01
 
 Quanhua Mu gave a talk "Decoding Glioma Drug Resistance with Big Data and Machine Learning" in the Seminar Series in Translational Genomics organized by the Department of Surgery, the Chinese University of Hong Kong.
