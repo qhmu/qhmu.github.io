@@ -1,7 +1,7 @@
 ---
 name: Yulin Li
 image: images/Yulin.jpg
-role: RA
+role: phd
 links:
 
 ---
