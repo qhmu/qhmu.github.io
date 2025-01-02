@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
-### 2024-11-19
+### 2025-01-02
 
-Ruge Chen and Yulin Li officially joined the lab as Research Assistant. They will become PhD students in Jan 2025. Welcome, Ruge and Yulin!
+Yulin and Ruge now officially become Ph.D. students. Hope you will enjoy the journey!
+
+### 2024-12-19
+
+Invited by [Dr. Xiangze Zeng](https://www.xzenglab.com/home), Quanhua Mu gave a research seminar at the Department of Physics, Hong Kong Baptist University.
 
 ### 2024-11-01
 
