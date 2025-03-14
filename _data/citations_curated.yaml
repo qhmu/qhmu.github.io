@@ -1,3 +1,24 @@
+- id: doi:10.1016/j.mcpro.2025.100914
+  title: Proteogenomic Profiling Reveals Small ORFs and Functional Microproteins in Activated T Cells
+  authors:
+  - Yang Yang
+  - Chuangmiao Chen
+  - Kecheng Li
+  - Yuanliang Zhang
+  - Lei Chen
+  - Jue Shi
+  - Quanhua Mu
+  - Yang Xu
+  - Qian Zhao#
+  publisher: Molecular & Cellular Proteomics
+  date: '2025-02-04'
+  link: https://www.sciencedirect.com/science/article/pii/S153594762500012X
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1535947625X00025-cov200h.gif
+  plugin: sources.py
+  file: sources.yaml
+
+
 - id: doi:10.1016/j.xcrm.2024.101838
   title: Genetic and microenvironmental evolution of colorectal liver metastases under chemotherapy
   authors:
