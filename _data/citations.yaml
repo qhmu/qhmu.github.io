@@ -42,7 +42,7 @@
   - type: website
     link: http://www.wang-lab-hkust.com:3838/cello2
   plugin: sources.py
-  file: sources.yaml
+  file: sources_backup.yaml
 - id: https://doi.org/10.1073/pnas.2303114120
   title: Adaptive DNA amplification of synthetic gene circuit opens a way to overcome
     cancer chemoresistance
@@ -290,10 +290,13 @@
   plugin: sources.py
   file: sources_backup.yaml
 - id: https://doi.org/10.1016/j.gpb.2018.07.007
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Deciphering Brain Complexity using Single-Cell Sequencing
+  authors:
+  - Quanhua Mu
+  - Yiyun Chen
+  - Jiguang Wang
+  publisher: Genomics, Proteomics & Bioinformatics
+  date: '2019-08-01'
   link: https://academic.oup.com/gpb/article/17/4/344/7229732
   plugin: sources.py
   file: sources_backup.yaml
