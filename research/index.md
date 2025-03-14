@@ -26,7 +26,7 @@ td
 
 <table>
 <th>
-Cancer drug resistance
+Cancer evolution and drug resistance
 </th>
 <tr>
 <td width="50%">
