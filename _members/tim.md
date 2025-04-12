@@ -1,6 +1,6 @@
 ---
 name: Timothy Chi Yin Chow
-role: undergraduate
+role: undergrad
 links:
 
 ---

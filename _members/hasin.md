@@ -1,6 +1,6 @@
 ---
 name: Hasin Ishiraq
-role: undergraduate
+role: undergrad
 links:
 
 ---
