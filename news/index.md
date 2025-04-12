@@ -9,7 +9,7 @@ nav:
 
 ### 2025-04-12
 
-Hasin and Tim presented their Final Year Project works. Well done!
+Hasin and Tim presented their Final Year Project works. Well done, guys!
 
 ### 2025-04-06
 

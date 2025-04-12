@@ -1,6 +1,8 @@
 ---
 name: Timothy Chi Yin Chow
+image: images/tim.png
 role: undergrad
+
 links:
 
 ---

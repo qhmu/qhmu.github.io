@@ -1,5 +1,6 @@
 ---
 name: Hasin Ishraq
+image: images/hasin.png
 role: undergrad
 links:
 
