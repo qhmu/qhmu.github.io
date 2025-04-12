@@ -1,5 +1,5 @@
 ---
-name: Hasin Ishiraq
+name: Hasin Ishraq
 role: undergrad
 links:
 
