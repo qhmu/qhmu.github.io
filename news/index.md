@@ -7,6 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2025-04-12
+
+Hasin and Tim presented their Final Year Project works. Well done!
+
+### 2025-04-06
+
+Quanhua visited the Musculoskeletal Tumor Center of Peking University People's Hospital and presented their recent work on osteosarcoma.
+
 ### 2025-01-02
 
 Yulin and Ruge now officially become Ph.D. students. Hope you will enjoy the journey!
