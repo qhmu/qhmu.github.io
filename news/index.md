@@ -6,6 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+### 2025-06-05
+
+Quanhua and the team attended the [BAM2025](https://wang-lab.hkust.edu.hk/others/bam2025/bam2025.html) workshop and gave a talk titled "Cellular Plasticity and Spatial Organization in Osteosarcoma Progression".
 
 ### 2025-04-12
 
