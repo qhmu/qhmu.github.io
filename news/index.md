@@ -10,6 +10,10 @@ nav:
 
 Quanhua and the team attended the [BAM2025](https://wang-lab.hkust.edu.hk/others/bam2025/bam2025.html) workshop and gave a talk titled "Cellular Plasticity and Spatial Organization in Osteosarcoma Progression".
 
+### 2025-05-17
+
+The team attended the [2025 Hong Kong - Jiangsu Symposium on Drug Discovery and Development](https://www.polyu.edu.hk/abct/news-and-events/events/2025/5/2025-hong-kong---jiangsu-symposium-on-drug-discovery-and-development/). Yulin and Ruge both presented their projects.
+
 ### 2025-04-12
 
 Hasin and Tim presented their Final Year Project works. Well done, guys!
