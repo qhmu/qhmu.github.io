@@ -6,6 +6,11 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+
+### 2025-07-28
+
+High school students Ann Lee and Harry Chen joined the lab as summer students to experience scientific research. Have fun, guys!
+
 ### 2025-06-05
 
 Quanhua and the team attended the [BAM2025](https://wang-lab.hkust.edu.hk/others/bam2025/bam2025.html) workshop and gave a talk titled "Cellular Plasticity and Spatial Organization in Osteosarcoma Progression".
