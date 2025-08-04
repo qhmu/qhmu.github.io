@@ -9,7 +9,7 @@ nav:
 
 ### 2025-07-28
 
-High school students Ann Lee and Harry Chen joined the lab as summer students to experience scientific research. Have fun, guys!
+The lab is happy to host high school students Ann Lee and Harry Chen to experience scientific research. Have fun, guys!
 
 ### 2025-06-05
 
