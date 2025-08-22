@@ -7,6 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2025-08-21
+
+Congratulations to [Ruge Chen](https://qhmu.github.io/members/202411ruge.html) for winning the Best Poster Award in the 6th ABCT Research Postgraduate Symposium in the Biology Discipline.
+
+
+
 ### 2025-08-06
 
 Quanhua Mu is invited to give a talk at the PolyU Science Workshop - [AI x Science](https://www.polyu.edu.hk/fs/research/symposium-and-workshop/workshop-on-ai-x-science/).
