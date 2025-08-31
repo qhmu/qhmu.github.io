@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2025-09-01
+
+Welcome Yuting Luo (HKPFS awardee), Juxin Fa (Poly Competitive Scholarship awardee), and Luyue Zhang (Dual PhD Program Scholarship awardeee), who join the team as PhD students!
+
 ### 2025-08-21
 
-Congratulations to [Ruge Chen](https://qhmu.github.io/members/202411ruge.html) for winning the Best Poster Award in the 6th ABCT Research Postgraduate Symposium in the Biology Discipline.
+Congratulations to [Ruge Chen](https://qhmu.github.io/members/202411ruge.html) for winning the Best Poster Award in the 6th ABCT Research Postgraduate Symposium in the Biology Discipline!
 
 
 
