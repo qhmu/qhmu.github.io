@@ -7,13 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
-### 2025-09-01
-
-Welcome five undergraduate students, Jingyun He, Jiayan Sun, Ketong Liu, Tsz Ching Ng, and Guidong Zeng, to join the lab to work on their Final Year Projects! 
 
 ### 2025-09-01
 
 Welcome Yuting Luo (HKPFS awardee), Juxin Fa (PolyU Competitive Scholarship awardee), and Luyue Zhang (Dual PhD Program Scholarship awardeee), who join the team as PhD students!
+
+### 2025-09-01
+
+Welcome five undergraduate students, Jingyun He, Jiayan Sun, Ketong Liu, Tsz Ching Ng, and Guidong Zeng, to join the lab to work on their Final Year Projects.
 
 ### 2025-08-21
 
