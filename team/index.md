@@ -17,4 +17,7 @@ We’re a computational biology laboratory working on human cancer. We aim to ma
 <br>
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
+<br>
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+
 {% include section.html background="images/background.jpeg" dark=true %}
