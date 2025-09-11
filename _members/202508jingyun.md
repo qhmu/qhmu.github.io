@@ -1,7 +1,7 @@
 ---
 name: Jingyun He
 image: images/Jenny.jpg
-role: alumni
+role: undergrad
 links:
 
 ---
