@@ -26,9 +26,9 @@ RA:
   icon: fa-solid fa-code
   description: Research Assistant
 
-programmer:
+master:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Master Student
 
 mascot:
   icon: fa-solid fa-dog
