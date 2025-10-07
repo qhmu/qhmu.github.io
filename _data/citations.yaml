@@ -297,7 +297,7 @@
   - Jiguang Wang
   publisher: Genomics, Proteomics & Bioinformatics
   date: '2019-08-01'
-  link: https://doi.org/10.1016/j.gpb.2018.07.007
+  link: https://academic.oup.com/gpb/article/17/4/344/7229732
   plugin: sources.py
   file: sources_backup.yaml
 - id: https://doi.org/10.1016/j.cell.2018.09.038
