@@ -10,7 +10,6 @@ nav:
 ### 2025-10-06
 
 Welcome our collaborators and friends from Peking University People's Hospital, who visited us and discussed the ongoing collaborative projects.
-![photo](../images/pkuph2025.jpg)
 
 ### 2025-09-18
 
