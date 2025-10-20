@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2025-10-08
+
+The Mu lab attended the 14th National Conference on Bioinformatics and Systems Biology. Quanhua presented our recent work on osteosarcoma on behalf of the lab.
+
 ### 2025-10-06
 
 Welcome our collaborators and friends from Peking University People's Hospital, who visited us and discussed the ongoing collaborative projects.
