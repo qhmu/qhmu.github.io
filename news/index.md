@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2026-01-01
+
+Welcome Ziyi Sheng to join the team as a PhD student!
+
 ### 2025-10-08
 
 The Mu lab attended the 14th National Conference on Bioinformatics and Systems Biology. Quanhua presented our recent work on osteosarcoma on behalf of the lab.
