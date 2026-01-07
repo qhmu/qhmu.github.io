@@ -356,7 +356,7 @@
   - Yi Luo
   publisher: PLOS ONE
   date: '2015-05-07'
-  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126784
+  link: https://dx.plos.org/10.1371/journal.pone.0126784
   plugin: sources.py
   file: sources_backup.yaml
 - id: https://doi.org/10.1007/s11356-014-3905-5
