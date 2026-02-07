@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2026-02-10
+
+Quanhua received outstanding team teaching award from the Faculty of Science and the University.
+
 ### 2026-01-01
 
 Welcome Ziyi Sheng to join the team as a PhD student!
