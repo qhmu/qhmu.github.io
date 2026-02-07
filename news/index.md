@@ -9,7 +9,7 @@ nav:
 
 ### 2026-02-10
 
-Quanhua received outstanding team teaching award from the Faculty of Science and the University.
+Quanhua received outstanding award for team teaching from the Faculty of Science and the University.
 
 ### 2026-01-01
 
