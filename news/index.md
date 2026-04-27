@@ -9,11 +9,11 @@ nav:
 
 ### 2026-04-25
 
-Mu Lab attended the [Computational Spatial Multi-Omics Symposium 2026](https://wang-lab.hkust.edu.hk/others/spatial2026/index.html) in Shenzhen, China. Quanhua presented "scPoly: accurate and robust single-cell transcriptomics via a subspace-adaptive foundation model" on behalf of the team.
+The Mu Lab attended the [Computational Spatial Multi-Omics Symposium 2026](https://wang-lab.hkust.edu.hk/others/spatial2026/index.html) in Shenzhen, China. Quanhua presented "scPoly: a subspace-adaptive foundation model for accurate and robust single-cell transcriptomics" on behalf of the team.
 
 ### 2026-03-27
 
-Yulin Li attended the [ISCB-China workshop on AI Virtual Cells](https://www.iscb-cn.org.cn/web/51/list.html) in Haikou, China, and presented her work single cell foundation model.
+Yulin Li attended the [ISCB-China workshop on AI Virtual Cells](https://www.iscb-cn.org.cn/web/51/list.html) in Haikou, China, and presented her single cell foundation model.
 
 ### 2026-02-10
 
