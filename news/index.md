@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2026-05-09
+
+Ruge Chen presented "Integrative single-cell and spatial omics reveal cellular state topography and clinically relevant subtypes in osteosarcoma" on behalf of the authors in the [2026 Hong Kong - Jiangsu International Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu26/home). He also won the presentation award. Well done! 
+
 ### 2026-04-25
 
 The Mu Lab attended the [Computational Spatial Multi-Omics Symposium 2026](https://wang-lab.hkust.edu.hk/others/spatial2026/index.html) in Shenzhen, China. Quanhua presented "scPoly: a subspace-adaptive foundation model for accurate and robust single-cell transcriptomics" on behalf of the team.
