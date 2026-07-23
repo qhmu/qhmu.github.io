@@ -2,6 +2,6 @@
 ---
 # Welcome to Quanhua Mu Lab!
 
-We are a computational biology laboratory in the [Department of Life Sciences](https://www.polyu.edu.hk/ls/), the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). Our research is centered on understanding **cancer evolution** using **multi-omics** and **artificial intelligence**, with a special focus on **sarcoma**. Check out our [Research](/research) and [Publications](/publications) for more information.
+We are a computational biology laboratory working in the **cancer genomics** field. Our lab is interested in how cancer genomes give rise to diverse cellular states, spatial ecosystems, immune escape mechanisms, and therapeutic vulnerabilities. To address these questions, we build AI models and perform integrative analysis of single-cell, spatial, perturbational, and immunogenomic data. Check out our [Research](/research) and [Publications](/publications) for more information.
 
 <span style="color:red"><strong>We are recruiting! </strong> Please see [Openings](/contact), and don't hesitate to contact us if interested!</span>
