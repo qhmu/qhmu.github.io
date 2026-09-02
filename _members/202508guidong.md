@@ -1,7 +1,7 @@
 ---
 name: Guidong Zeng
 image: images/guidong.jpg
-role: undergrad
+role: alumni
 links:
 
 ---
