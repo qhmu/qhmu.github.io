@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+### 2026-09-01
+
+Welcome Anqiang Ye to join the team as a PhD student, and Soni Rai as an MPhil student. Welcome Yixuan Shi, Wenjin Zhou, and Meilin Wu to join the lab to work on their Final Year Projects. Yuezhe Qi switched her role to a Research Assistant. Hope you all enjoy the new journey!
+
 ### 2026-05-09
 
-Ruge Chen presented "Integrative single-cell and spatial omics reveal cellular state topography and clinically relevant subtypes in osteosarcoma" on behalf of the authors in the [2026 Hong Kong - Jiangsu International Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu26/home). He also won the presentation award. Well done! 
+Ruge Chen presented "Integrative single-cell and spatial omics reveal cellular state topography and clinically relevant subtypes in osteosarcoma" on behalf of the authors in the [2026 Hong Kong - Jiangsu International Symposium on Drug Discovery and Development](https://events.polyu.edu.hk/hkjiangsu26/home). He also won the presentation award. Well done!
 
 ### 2026-04-25
 
