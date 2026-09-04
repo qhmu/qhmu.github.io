@@ -216,8 +216,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1073/pnas.2303114120
-  title: Adaptive DNA amplification of synthetic gene circuit opens a way to overcome
-    cancer chemoresistance
+  title: Adaptive DNA amplification of synthetic gene circuit opens a way to overcome cancer chemoresistance
   authors:
   - Yiming Wan\*
   - Quanhua Mu\*
@@ -236,7 +235,7 @@
   link: https://pnas.org/doi/10.1073/pnas.2303114120
   type: paper
   description: We found DNA amplification as a driver of drug resistance, and proposed targeting the amplified DNA via triplex forming oligonucleotides (TFOs).
-  image: https://www.pnas.org/cms/asset/dc351847-695d-465d-8347-32e00fe78d43/pnas.2023.120.issue-49.largecover.png
+  image: https://www.pnas.org/cms/asset/2060a65f-1632-4053-92ab-f6b2de46c24c/pnas.2023.120.issue-49.largecover.png
   tags:
   - cancer drug resistance
   plugin: sources.py
