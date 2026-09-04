@@ -18,6 +18,8 @@ Full list of publications can be found at [Google Scholar](https://scholar.googl
 
 {% include citation.html lookup="MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas" style="rich" %}
 
+{% include citation.html lookup="Integrating Radiological Analysis and Spatiotemporal Modeling to Uncover Prognostic Heterogeneity in Multifocal Glioblastoma" style="rich" %}
+
 {% include section.html %}
 
 ## All
