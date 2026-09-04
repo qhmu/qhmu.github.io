@@ -1,3 +1,23 @@
+- id: https://doi.org/10.1093/nsr/nwag568
+  title: Integrating Radiological Analysis and Spatiotemporal Modeling to Uncover Prognostic Heterogeneity in Multifocal Glioblastoma
+  authors:
+  - Jiabao Li\*
+  - Quanhua Mu\*
+  - Yiming Li
+  - Mingrui Jiang
+  - Ruiyang Wang
+  - Zheng Hu
+  - Yinyan Wang
+  - Jiguang Wang#
+
+  publisher: National Science Review
+  date: '2026-09-03'
+  link: https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag568/8781087
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/Issue/13/16/7/m_cover.jpeg
+
+
+
 - id: https://doi.org/10.1038/s41467-026-74209-3
   title: T2Pdecoder enables protein-centric analyses from transcriptomic data
   authors:
@@ -151,7 +171,7 @@
   title: Identifying predictors of glioma evolution from longitudinal sequencing
   authors:
   - Quanhua Mu\*
-  - Ruichao Chai*
+  - Ruichao Chai\*
   - Bo Pang
   - Yingxi Yang
   - Hanjie Liu
